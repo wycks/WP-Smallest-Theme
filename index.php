@@ -8,10 +8,6 @@
 <link rel="stylesheet" type="text/css" media="all" href="<?php bloginfo( 'stylesheet_url' ); ?>" />
 </head>    
 
-    
-
-
-
 <div class="container">
     
     <?php get_sidebar(); ?>
