@@ -9,13 +9,6 @@ License: GNU General Public License
 License URI: license.txt
 Tags: super small.
 */
-
-
-body{
-/*    background-color: #000000;*/
-
-}
-
 .container{
 max-width: 900px;
 margin: inherit auto;
